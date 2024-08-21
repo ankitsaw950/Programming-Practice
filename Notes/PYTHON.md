@@ -129,14 +129,14 @@
 
     These operators are used to perform bit-level operations on binary numbers.
 
-| Operator | Description         | Example         |
-| -------- | ------------------- | --------------- | --- | ------ |
-| `&`      | Bitwise AND         | `5 & 3` → `1`   |
-| `        | `                   | Bitwise OR      | `5  | 3`→`7` |
-| `^`      | Bitwise XOR         | `5 ^ 3` → `6`   |
-| `~`      | Bitwise NOT         | `~5` → `-6`     |
-| `<<`     | Bitwise left shift  | `5 << 1` → `10` |
-| `>>`     | Bitwise right shift | `5 >> 1` → `2`  |
+| Operator | Description                  | Example             |
+|----------|------------------------------|---------------------|
+| `&`      | Bitwise AND                  | `5 & 3` → `1`       |
+| `|`      | Bitwise OR                   | `5 | 3` → `7`       |
+| `^`      | Bitwise XOR                  | `5 ^ 3` → `6`       |
+| `~`      | Bitwise NOT                  | `~5` → `-6`         |
+| `<<`     | Bitwise left shift           | `5 << 1` → `10`     |
+| `>>`     | Bitwise right shift          | `5 >> 1` → `2`      |
 
 ### 6. `Identity Operators`:-
 
