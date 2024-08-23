@@ -26,8 +26,7 @@
 
 ### `Keywords`:-
 
-      These are the reserved words in Python whose meaning is
-      already known to its interpreter.
+These are the reserved words in Python whose meaning is already known to its interpreter.
 
   **Example**:
   ```python
@@ -36,7 +35,7 @@
 
 ### `Data Types` :-
 
-      They specify the different sizes and values that can be stored in a variable.
+They specify the different sizes and values that can be stored in a variable.
     ->Integer
     ->Boolean
     ->String
@@ -45,8 +44,7 @@
 
 ### `Comments` :-
 
-             They are ignored by the Python interpreter and do not
-             affect the execution of the program.
+They are ignored by the Python interpreter and do not affect the execution of the program.
 
 ->> There are two types of comments in python:-
 
@@ -69,12 +67,11 @@
 
 ### `Operators` :-
 
-    Operators are special symbols or keywords that are used to
-    perform operations on variables and values.
+Operators are special symbols or keywords that are used to perform operations on variables and values.
 
 ### 1. `Arithmetic Operators` :-
 
-        These operators are used to perform mathematical operations.
+These operators are used to perform mathematical operations.
 
 
 | Operator | Description         | Example          |
