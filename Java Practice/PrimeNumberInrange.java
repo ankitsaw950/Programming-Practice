@@ -1,4 +1,4 @@
-package Practice_Questions;
+
 
 public class PrimeNumberInrange {
     public static void main(String[] args) {

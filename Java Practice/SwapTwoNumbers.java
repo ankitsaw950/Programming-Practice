@@ -1,4 +1,4 @@
-package Practice_Questions;
+
 import java.util.Scanner;
 public class SwapTwoNumbers {
     public static void main(String[] args) {

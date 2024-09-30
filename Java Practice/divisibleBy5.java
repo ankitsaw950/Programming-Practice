@@ -1,4 +1,3 @@
-package Practice_Questions;
 
 import java.util.Scanner;
 public class divisibleBy5 {

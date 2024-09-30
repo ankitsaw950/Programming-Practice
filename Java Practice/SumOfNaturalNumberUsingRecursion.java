@@ -1,6 +1,6 @@
-package Practice_Questions;
-import java.util.*;
 
+import java.util.*;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 public class SumOfNaturalNumberUsingRecursion {
     public static int sum(int num)
     {
@@ -13,7 +13,7 @@ public class SumOfNaturalNumberUsingRecursion {
         System.out.print("Enter the number : ");
         int n = sc.nextInt();
 
-        int ans  =sum(10);
+        int ans  =sum(n);
         System.out.println("The sum of first "+n + " digit is : "+ans);
     }
 }

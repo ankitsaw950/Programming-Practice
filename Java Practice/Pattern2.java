@@ -1,4 +1,4 @@
-package Practice_Questions;
+
 /*
 
 1

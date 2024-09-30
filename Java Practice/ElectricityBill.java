@@ -8,7 +8,7 @@ unit                     rate
 */
 
 
-package Practice_Questions;
+
 import java.util.*;
 public class ElectricityBill {
     public static void main(String[] args) {

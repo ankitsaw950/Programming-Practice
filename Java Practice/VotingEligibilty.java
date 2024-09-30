@@ -1,4 +1,4 @@
-package Practice_Questions;
+
 import java.util.*;
 
 public class VotingEligibilty {

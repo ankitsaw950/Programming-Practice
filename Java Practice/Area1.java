@@ -1,4 +1,4 @@
-package Practice_Questions;
+
 
 class Test {
     int len, width;

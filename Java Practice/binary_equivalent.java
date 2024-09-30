@@ -1,7 +1,4 @@
-package Practice_Questions;
-
 import java.util.Scanner;
-
 public class binary_equivalent {
     public static String Binary(int x) {
         if (x == 0) {
