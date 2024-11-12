@@ -1,6 +1,5 @@
-# 11. Write a function that checks if one string is a rotation of another. For example, given 
-# the strings "abcde" and "deabc", the function should return True, but for "abcde" and 
-#  "abced", it should return False.
+# 11. Write a function that checks if one string is a rotation of another. For example, given the strings "abcde" and "deabc", the function should return True, but for "abcde" and "abced", it should return False.
+
 
 def is_rotation(str1, str2):
     # If the lengths of the strings are not equal, they cannot be rotations of each other

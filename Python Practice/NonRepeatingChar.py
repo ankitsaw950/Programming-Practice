@@ -16,4 +16,4 @@ def first_non_repeated_char(s):
     
     return None
 
-print(first_non_repeated_char("swwiiss"))  # Output: 'w'
+print(first_non_repeated_char("swiss"))  # Output: 'w'
